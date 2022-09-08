@@ -1,0 +1,18 @@
+h1{
+    color: rgb(96, 8, 128);
+}
+
+label{
+    color: white;
+    background-color:rgb(96, 8, 128) ;
+    padding: 8px;
+}
+
+input[type="button"]{
+    color: white;
+    background-color: rgb(96, 8, 128);
+    font-size: 22px;
+}
+marquee{
+    color: red;
+}
